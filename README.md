@@ -113,7 +113,7 @@ This project demonstrates a complete, real-world data analytics workflow — fro
 
 ## 📎 Files in This Repository
 
-- `project.ipynb` – Data cleaning and preprocessing (Python)
+- `project.ipynb` – Data cleaning and Preprocessing (Python)
 - `walmart_sales_analysis.sql` – SQL queries for business analysis
 - Tableau dashboard screenshots / workbook
 - Business problem statements
